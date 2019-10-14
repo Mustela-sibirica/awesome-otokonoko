@@ -6,6 +6,8 @@
 
 ## 轩墨宝宝
 
+![xuanmo](https://raw.githubusercontent.com/Mustela-sibirica/awesome-otokonoko/master/pic/Xuanmo.png "xuanmo")
+
 虎牙：JV-轩墨宝宝 (https://www.huya.com/xuanmo)
 
 微博：轩墨宝宝QAQ (https://www.weibo.com/u/3986842950)
@@ -14,6 +16,8 @@
 
 ## Abbily
 
+![Abbily](https://raw.githubusercontent.com/Mustela-sibirica/awesome-otokonoko/master/pic/Abbily.jpg "Abbily")
+
 抖音：我叫Abbily (抖音号：abbily)
 
 微博：我叫Abbily (https://www.weibo.com/Abbily123)
@@ -21,6 +25,8 @@
 哔哩哔哩：我叫Abbily (https://space.bilibili.com/32899075)
 
 ## CC酱
+
+![CC-Chan](https://raw.githubusercontent.com/Mustela-sibirica/awesome-otokonoko/master/pic/cc-chan.jpeg "CC-Chan")
 
 抖音：CC酱sama (抖音号：199577CC)
 
